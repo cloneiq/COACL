@@ -11,7 +11,7 @@ Experiments on IU-Xray and MIMIC-CXR demonstrate that COACL achieves superior pe
 
 <div  align="center">    
 <img src="./imgs/main_structure.png" 
-width = "700" height = "300" 
+width = "900" height = "300" 
 alt="1" align=center />
 </div>
 
