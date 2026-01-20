@@ -15,7 +15,7 @@ width = "700" height = "500"
 alt="1" align=center />
 </div>
 
-This paper has been submitted to **Knowledge-Based Systems** .
+This paper has been submitted to **Engineering Applications of Artificial Intelligence** .
 
 ## Requirements
 - Python 3.8  
